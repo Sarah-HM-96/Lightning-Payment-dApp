@@ -1,0 +1,12 @@
+/home/lilica/bdk-core-wallet-example/target/debug/deps/jsonrpc-47ed65cf21a93544.rmeta: /home/lilica/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/lib.rs /home/lilica/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/client.rs /home/lilica/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/error.rs /home/lilica/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/util.rs /home/lilica/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/simple_http.rs /home/lilica/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/simple_tcp.rs
+
+/home/lilica/bdk-core-wallet-example/target/debug/deps/libjsonrpc-47ed65cf21a93544.rlib: /home/lilica/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/lib.rs /home/lilica/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/client.rs /home/lilica/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/error.rs /home/lilica/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/util.rs /home/lilica/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/simple_http.rs /home/lilica/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/simple_tcp.rs
+
+/home/lilica/bdk-core-wallet-example/target/debug/deps/jsonrpc-47ed65cf21a93544.d: /home/lilica/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/lib.rs /home/lilica/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/client.rs /home/lilica/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/error.rs /home/lilica/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/util.rs /home/lilica/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/simple_http.rs /home/lilica/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/simple_tcp.rs
+
+/home/lilica/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/lib.rs:
+/home/lilica/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/client.rs:
+/home/lilica/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/error.rs:
+/home/lilica/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/util.rs:
+/home/lilica/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/simple_http.rs:
+/home/lilica/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-0.12.1/src/simple_tcp.rs:
